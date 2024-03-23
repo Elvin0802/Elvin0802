@@ -7,12 +7,6 @@
 
 - 🌱 I’m currently learning **.NET C#**
 
-- 👯 I’m looking to collaborate on **None**
-
-- 🤝 I’m looking for help with **None**
-
-- 💬 Ask me about **OOP**
-
 - 📫 How to reach me **elvincode1517@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
