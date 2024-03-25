@@ -1,7 +1,7 @@
-[![MasterHead](https://w0.peakpx.com/wallpaper/432/1017/HD-wallpaper-c-sharp-fiery-logo-programming-language-orange-stone-background-creative-c-sharp-logo-programming-language-signs-c-sharp.jpg)
 
-<h1 align="center">Hi 👋, I'm Elvin Sirajli</h1>
-<h3 align="center">A passionate fullstack developer from Azerbaijan,Baku</h3>
+<h1 align="center">Hi 👋, I'm Elvin Sirajli from Baku, Azerbaijan</h1>
+
+[![MasterHead](https://w0.peakpx.com/wallpaper/432/1017/HD-wallpaper-c-sharp-fiery-logo-programming-language-orange-stone-background-creative-c-sharp-logo-programming-language-signs-c-sharp.jpg)
 
 - 🔭 I’m currently working on **boss.az Project**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/elvin_0.0.8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elvin_0.0.8" height="30" width="40" /></a>
+<a href="https://instagram.com/elvin_0.0.8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elvin_0.0.8" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
