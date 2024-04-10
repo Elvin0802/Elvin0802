@@ -1,11 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Elvin Sirajli from Baku, Azerbaijan</h1>
 
-[![MasterHead](https://w0.peakpx.com/wallpaper/432/1017/HD-wallpaper-c-sharp-fiery-logo-programming-language-orange-stone-background-creative-c-sharp-logo-programming-language-signs-c-sharp.jpg)
+[![MasterHead](https://w0.peakpx.com/wallpaper/385/885/HD-wallpaper-c-sharp-fiery-logo-programming-language-orange-stone-background-creative-c-sharp-logo-programming-language-signs-c-sharp.jpg)
 
-- 🔭 I’m currently working on **boss.az Project**
-
-- 🌱 I’m currently learning **.NET C#**
+- 🌱 I’m currently learning **.NET C# WPF**
 
 - 📫 How to reach me **elvincode1517@gmail.com**
 
