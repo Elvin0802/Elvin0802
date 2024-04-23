@@ -1,9 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Elvin Sirajli from Baku, Azerbaijan</h1>
-
-[![MasterHead](https://media.istockphoto.com/id/494343308/photo/c-background.jpg?s=2048x2048&w=is&k=20&c=3Qap5cHKu6YLq3hY2qFikIK8i7BhEuWS0V5Q5hnuDUM=)
-
-- 🌱 I’m currently learning **.NET C# WPF**
+<h1 align="center">Hi, I'm Elvin Sirajli</h1>
 
 - 📫 How to reach me **elvincode1517@gmail.com**
 
