@@ -17,9 +17,8 @@
       <a href="https://instagram.com/srcl.dev/" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
-     
       <a href="https://tiktok.com/@lvn.dev/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/tiktok-1DA1F2.svg?style=for-the-badge&logo=tiktok&logoColor=black"
+         src="https://img.shields.io/badge/tiktok-1DA1F2.svg?style=for-the-badge&logo=tiktok&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
     </p>
@@ -36,7 +35,7 @@
   <a href="github.com/Elvin0802" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=Elvin0802&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+  <a href="github.com/Elvin0802" target="blank"><img align="center" 
      src="https://img.shields.io/github/license/Elvin0802/Elvin0802?color=purple&style=for-the-badge" height="25"
      alt="lisense" /></a>
 
@@ -54,12 +53,12 @@
     <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
-        <a href="https://github.com/1999AZZAR/">
+        <a href="https://github.com/Elvin0802/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elvin0802&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="Elvin0802 :: overall Top Langs " /></a>
       </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/Elvin0802/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elvin0802&theme=gruvbox&layout=compact&hide_border=true"
           alt="Elvin0802 :: Top Langs by repo" />
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Elvin0802&theme=gruvbox&layout=compact&hide_border=true"
@@ -70,7 +69,7 @@
     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/Elvin0802/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Elvin0802&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Elvin0802&theme=gruvbox&hide_border=true" />
           </a>
