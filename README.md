@@ -78,35 +78,36 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,github,vscode,vs,cs,c,python,mssql&perline=14" />
+    
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,ssms,git,github&perline=14" />
+    
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,sql&perline=14" />
+    
   </a>
 </p>
 
 
-<!-- Connect with me -->
+<!-- Contact with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contact With Me🤝</h2></summary>
   </ul>
 </div>
 
 <!--icons and links-->
 <p align="center">
 <a href="https://www.instagram.com/srcl.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.tiktok.com/@lvn.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="tiktok" height="50" width="50" /></a>
 </p>
 
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Elvin0802&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 29/4/2023
