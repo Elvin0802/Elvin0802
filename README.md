@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,git,github,c,cpp,cs,python,mssql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,git,github,c,cpp,cs,python,materialui,regex,sqlite&perline=14" />
   </a>
 </p>
 
