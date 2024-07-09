@@ -51,6 +51,19 @@
     <h2 align="center"> Github stats </h2>
       <br/>
     <details open>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,git,github,c,cpp,cs,python,mssql&perline=14" />
+  </a>
+</p>
+
+<div align=center>
+  <a href="https://github.com/Elvin0802/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Elvin0802&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+      
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/Elvin0802/">
@@ -85,7 +98,8 @@
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Elvin's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Elvin0802&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <img alt="Elvin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Elvin0802&theme=xcode" /></a>
+
 <br/>
   </samp>
   </details>
