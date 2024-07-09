@@ -11,16 +11,14 @@
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="elvincode1517@gmail.com" target="blank"><img align="center"
+      <a href="mailto:elvincode1517@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://instagram.com/srcl.dev/" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://tiktok.com/lvn.dev/" target="blank"><img align="center"
+     
+      <a href="https://tiktok.com/@lvn.dev/" target="blank"><img align="center"
          src="https://img.shields.io/badge/tiktok-1DA1F2.svg?style=for-the-badge&logo=tiktok&logoColor=black"
          alt="azzar" height="30"/></a>
       <br>
@@ -41,9 +39,7 @@
   <a href="github.com/1999AZZAR" target="blank"><img align="center" 
      src="https://img.shields.io/github/license/Elvin0802/Elvin0802?color=purple&style=for-the-badge" height="25"
      alt="lisense" /></a>
-  <a href="github.com/1999AZZAR"><img align="center"
-     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-     alt="work on my machine" /></a>
+
  </p>
  </samp>
 </div>
