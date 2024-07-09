@@ -83,8 +83,8 @@
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/Elvin0802/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Elvin0802&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Elvin0802&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Elvin0802&show_icons=true&theme=merko&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Elvin0802&theme=whatsapp-dark&border_radius=6.5&date_format=j%20M%5B%20Y%5D" />
           </a>
        </p>
      <br>
