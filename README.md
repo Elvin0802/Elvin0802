@@ -72,9 +72,9 @@
       </p>
         <p align="center">
           <a href="https://github.com/Elvin0802/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elvin0802&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elvin0802&theme=gotham&layout=compact&hide_border=true"
           alt="Elvin0802 :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Elvin0802&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Elvin0802&theme=gotham&layout=compact&hide_border=true"
           alt="Elvin0802 :: Top Langs by commit" />
           </a>
         </p>
