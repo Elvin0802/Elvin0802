@@ -53,7 +53,7 @@
     <details open>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Elvin0802/">
     <img src="https://skillicons.dev/icons?i=visualstudio,git,github,c,cpp,cs,python,materialui,regex,sqlite&perline=14" />
   </a>
 </p>
