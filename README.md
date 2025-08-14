@@ -63,7 +63,6 @@
      </samp>
   </div>    
 </details>
-</details>
 
 <details>
   <summary>📈 Latest Activity</summary>
