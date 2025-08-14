@@ -17,6 +17,7 @@
   
 <details> 
   <summary>💻 GitHub Profile</summary>
+ <br/>
   <div>
   <samp>
 
@@ -40,19 +41,19 @@
           alt="Elvin0802 :: overall Top Langs " /></a>
           <br/>
           <a href="https://github.com/Elvin0802/">
-          <img width="20%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elvin0802&theme=gotham&layout=compact&hide_border=true"
+          <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elvin0802&theme=gotham&layout=compact&hide_border=true"
           alt="Elvin0802 :: Top Langs by repo" />
           <br/>
-          <img width="20%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Elvin0802&theme=gotham&layout=compact&hide_border=true"
+          <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Elvin0802&theme=gotham&layout=compact&hide_border=true"
           alt="Elvin0802 :: Top Langs by commit" />
           </a>
         </p>
   <summary><h3>Stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/Elvin0802/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Elvin0802&show_icons=true&theme=merko&hide_border=true" />
+          <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Elvin0802&show_icons=true&theme=merko&hide_border=true" />
           <br/>
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Elvin0802&theme=whatsapp-dark&border_radius=6.5&date_format=j%20M%5B%20Y%5D" />
+          <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Elvin0802&theme=whatsapp-dark&border_radius=6.5&date_format=j%20M%5B%20Y%5D" />
           </a>
        </p>
      <br>
