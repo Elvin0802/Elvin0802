@@ -18,8 +18,8 @@
     <a href="https://github.com/Elvin0802">
       <img src="https://img.shields.io/badge/GitHub-Elvin0802-181717?style=for-the-badge&logo=github" alt="GitHub" />
     </a>
-    <a href="https://nextcore.az">
-      <img src="https://img.shields.io/badge/NextCore-nextcore.az-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NextCore" />
+    <a href="https://www.linkedin.com/in/elvin-sirajli/">
+      <img src="https://shields.io" alt="LinkedIn" />
     </a>
   </p>
 
@@ -89,7 +89,6 @@
   <img src="https://img.shields.io/badge/Docker-0B214A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-0A0A0A?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx" />
   <img src="https://img.shields.io/badge/Traefik-0F172A?style=for-the-badge&logo=traefikproxy&logoColor=24A1C1" alt="Traefik" />
   <img src="https://img.shields.io/badge/Cloudflare-111111?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
 
@@ -231,4 +230,5 @@
 
   <h3>Building. Learning. Improving.</h3>
 
+<br />
 </div>
