@@ -170,28 +170,6 @@
 
 <br />
 
-<div align="center">
-
-<h2>GitHub Stats</h2>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elvin0802&theme=github_dark" alt="Elvin's GitHub stats" />
-
-<br /> <br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Elvin0802&theme=github-dark-blue&hide_border=true" alt="Elvin's GitHub streak" />
-
-<br /> <br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elvin0802&theme=github_dark" alt="Top languages by repository" />
-
-<br /> <br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Elvin0802&theme=github_dark" alt="Top languages by commits" />
-
-</div>
-
-<br />
-
 <details>
   <summary>
     <b>Latest Contribution Graph</b>
